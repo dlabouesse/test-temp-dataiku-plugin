@@ -7,7 +7,7 @@
     "id" : "test-git",
 
     // Version. It is highly recommended to use Semantic Versioning
-    "version" : "0.1.1",
+    "version" : "1.1.1",
 
 
     // Meta data for display purposes
